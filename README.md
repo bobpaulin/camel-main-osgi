@@ -1,2 +1,2 @@
 # camel-main-osgi
-A small bundle for starting a CamelContext and registring RouteBuilders from any bundle.
+A small bundle for starting an OSGi Apache Camel Project.  The bundle starts the CamelContext and registering RouteBuilders from any bundle.
