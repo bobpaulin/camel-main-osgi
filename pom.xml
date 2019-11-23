@@ -30,7 +30,7 @@
     
     <url>https://github.com/bobpaulin/camel-main-osgi</url>
      
-    <description>A small bundle for starting a CamelContext and registering RouteBuilders from any bundle.</description>
+    <description>A small bundle for starting an OSGi Apache Camel Project.  The bundle starts the CamelContext and registering RouteBuilders from any bundle.</description>
 
     <licenses>
         <license>
